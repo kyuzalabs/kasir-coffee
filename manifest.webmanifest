@@ -1,0 +1,1 @@
+{"name":"Kasir Coffee Shop","short_name":"KasirKopi","description":"Aplikasi kasir (POS) untuk coffee shop","start_url":"./","display":"standalone","background_color":"#FAFAF9","theme_color":"#8B5E3C","lang":"id","scope":"./","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
